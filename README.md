@@ -1,13 +1,13 @@
 # Business-Intelligence
 
 <p align="center">
-  <img src="https://github.com/TStrada/Nusiness-Intelligence/blob/main/logoBicocca.jpg" width="40%">
+  <img src="https://github.com/TStrada/Business-Intelligence/blob/main/logoBicocca.png" width="40%">
 </p>
   <h6 align="center">a Business Intelligence Project</h6>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
-  <a href="#Report&Code">&nbsp; Report&Dataset &nbsp;</a> |
-  <a href="#Personalinformations">&nbsp; Personal informations &nbsp;</a>
+  <a href="#Report&Dataset">&nbsp; Report&Dataset &nbsp;</a> |
+  <a href="#Personal informations">&nbsp; Personal informations &nbsp;</a>
 </p>
 
 <a name="overview"></a>
@@ -17,8 +17,9 @@ The are 6 mandatory questions plus a facoltative one. Each question is transform
 
 
 <a name="Report&Dataset"></a>
-## &#9741; &nbsp; Report&Code 
-Her you can find the <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Dataset/"> Dataset</a> and the <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Homework_Strada_Bosio_Abete.pdf"> pdf presentation</a> script, a href="https://github.com/TStrada/Business-Intelligence/blob/main/Homework_Strada_Bosio_Abete.pptx"> pptx presentation</a> script
+## &#9741; &nbsp; Report&Dataset 
+The dataset use is fake.   
+Her you can find the <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Dataset/"> Datasets</a> used and the <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Homework_Strada_Bosio_Abete.pdf"> pdf presentation</a>, <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Homework_Strada_Bosio_Abete.pptx"> pptx presentation</a> script
 
 
 <a name="Personal informations"></a>
