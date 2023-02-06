@@ -19,7 +19,7 @@ The are 6 mandatory questions plus a facoltative one. Each question is transform
 <a name="Report&Dataset"></a>
 ## &#9741; &nbsp; Report&Dataset 
 The dataset use is fake.   
-Her you can find the <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Dataset/"> Datasets</a> used and the <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Homework_Strada_Bosio_Abete.pdf"> pdf presentation</a>, <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Homework_Strada_Bosio_Abete.pptx"> pptx presentation</a> script
+Here you can find the <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Dataset/"> Datasets</a> used and the <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Homework_Strada_Bosio_Abete.pdf"> pdf presentation</a>, <a href="https://github.com/TStrada/Business-Intelligence/blob/main/Homework_Strada_Bosio_Abete.pptx"> pptx presentation</a> script
 
 
 <a name="Personal informations"></a>
