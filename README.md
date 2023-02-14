@@ -12,8 +12,7 @@
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-The aim of this project is to analyze performance of student and professors attending Unimib courses.
-The are 6 mandatory questions plus a facoltative one. Each question is transformed into one or more KPI usefull for analyzing quantitive measures and share them easily. Each dataset used for analysis is extract from a RDBMS using SQL. The relative plot are made using both python libraries, Tableau and Flourish. 
+The aim of this project is to analyze the performance of students and professors attending Unimib courses. The are 6 mandatory questions plus a facultative one. Each question is transformed into one or more KPIs useful for analyzing quantitive measures and sharing them easily. Each dataset used for analysis is extracted from an RDBMS using SQL. The relative plot is made using both python libraries, Tableau and Flourish.
 
 
 <a name="Report&Dataset"></a>
